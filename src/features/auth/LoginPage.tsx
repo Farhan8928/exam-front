@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 import { useToast } from "@/hooks/use-toast";
 import { Loader2, Eye, EyeOff } from "lucide-react";
 import { useSiteSettings } from "@/components/SiteSettingsProvider";
-import nfskillsLogo from "@assets/image_1772127253487.png";
+import nfskillsLogo from "@assets/nfskills-logo.png";
 
 export default function LoginPage() {
   const { login } = useAuth();

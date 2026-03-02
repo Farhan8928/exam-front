@@ -27,7 +27,7 @@ import {
   Settings,
   GraduationCap,
 } from "lucide-react";
-import nfskillsLogo from "@assets/image_1772127253487.png";
+import nfskillsLogo from "@assets/nfskills-logo.png";
 
 interface NavItem {
   label: string;
